@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "348528824483",
+    "firebase_url": "https://notarychat2-a36fb.firebaseio.com",
+    "project_id": "notarychat2-a36fb",
+    "storage_bucket": "notarychat2-a36fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348528824483:android:b49f98247a25cfa1",
+        "android_client_info": {
+          "package_name": "com.example.adirahmad.notarychat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348528824483-qs090kfpc9pnf022dr1j70td4l3kovnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adirahmad.notarychat2",
+            "certificate_hash": "fc2ec07d47ed9dd29c54e9faedbb7c3624f1f5b2"
+          }
+        },
+        {
+          "client_id": "348528824483-1n1pumcai2rt6jltsokn2u3plufgs5gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcNoBFRgmm9fL82IRTcEVZsKbKyP22UxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348528824483-1n1pumcai2rt6jltsokn2u3plufgs5gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348528824483:android:c47403aea127dcc7",
+        "android_client_info": {
+          "package_name": "com.example.adirahmad.notarychat31"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348528824483-c8mk9vcrst07kb0kamre2q1m1kqin791.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adirahmad.notarychat31",
+            "certificate_hash": "fc2ec07d47ed9dd29c54e9faedbb7c3624f1f5b2"
+          }
+        },
+        {
+          "client_id": "348528824483-1n1pumcai2rt6jltsokn2u3plufgs5gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcNoBFRgmm9fL82IRTcEVZsKbKyP22UxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348528824483-1n1pumcai2rt6jltsokn2u3plufgs5gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
