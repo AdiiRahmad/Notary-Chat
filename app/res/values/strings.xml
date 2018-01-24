@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Notary Chat</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="about">Tentang</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Email</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Lupa password anda ?</string>
+    <string name="go">GO</string>
+    <string name="repeat_password">Ulangi Password anda</string>
+    <string name="next">NEXT</string>
+    <string name="register">REGISTER</string>
+
+    <string name="select_picture_title">Get Photo From</string>
+
+    <string name="hint_username">Masukkan username Baru Anda</string>
+    <string name="hint_email_reset">Masukkan email anda</string>
+    <string name="enter_group_name">Enter group name</string>
+    <string name="foto">Foto</string>
+    <string name="galeri">Galeri</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="textview">TextView</string>
+    <string name="Help">Help</string>
+    <string name="a">Memuat Pesan...</string>
+
+
+</resources>
